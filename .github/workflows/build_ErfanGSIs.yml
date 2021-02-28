@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V10.1.1.0.NAJCNFI/miui_MI4s_V10.1.1.0.NAJCNFI_a6d5e5489a_7.0.zip
+  ROM_URL: https://bigota.d.miui.com/8.9.13/miui_MI4s_8.9.13_3917a5914d_7.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
